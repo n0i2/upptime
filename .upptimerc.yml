@@ -8,7 +8,7 @@ sites:
   - name: n0i2.eu
     url: https://n0i2.eu
   - name: Oracle VM
-    url: ${{ secrets.ORACLEVM }}
+    url: $ORACLEVM
     port: 80
     check: "tcp-ping"
 
