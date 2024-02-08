@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1758,
-    "timeDay": 1758,
-    "timeWeek": 1758,
-    "timeMonth": 1758,
-    "timeYear": 1758,
+    "time": 1749,
+    "timeDay": 1749,
+    "timeWeek": 1749,
+    "timeMonth": 1749,
+    "timeYear": 1749,
     "dailyMinutesDown": {}
   },
   {
@@ -28,29 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
+    "name": "Oracle VM",
+    "url": "${{ secrets.ORACLEVM }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
+    "slug": "oracle-vm",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "13.82%",
+    "uptimeDay": "13.82%",
+    "uptimeWeek": "13.82%",
+    "uptimeMonth": "13.82%",
+    "uptimeYear": "13.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   }
 ]
