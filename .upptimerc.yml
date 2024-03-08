@@ -9,7 +9,7 @@ sites:
     url: https://n0i2.eu
   - name: Oracle VM
     url: $ORACLEVM
-    port: 80
+    port: 443
     check: "tcp-ping"
 
 #  - name: IPv6 test
