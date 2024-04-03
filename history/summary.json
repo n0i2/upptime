@@ -4,10 +4,10 @@
     "url": "https://www.iphost.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.iphost.net.ico",
     "slug": "ip-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1706,
@@ -15,16 +15,18 @@
     "timeWeek": 1773,
     "timeMonth": 1635,
     "timeYear": 1706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 1
+    }
   },
   {
     "name": "n0i2.eu",
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 930,
     "timeMonth": 929,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "Oracle VM",
@@ -41,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-vm",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.15%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.15%",
     "time": 108,
     "timeDay": 106,
     "timeWeek": 111,
