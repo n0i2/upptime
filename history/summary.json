@@ -49,7 +49,7 @@
     "url": "$ORACLEVM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-vm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +61,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-05-30": 34,
       "2024-03-08": 674,
       "2024-03-07": 1440,
