@@ -27,7 +27,7 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 1221,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-09-07": 79,
       "2024-09-01": 18,
       "2024-08-19": 28,
