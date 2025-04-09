@@ -4,16 +4,16 @@
     "url": "https://www.iphost.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.iphost.net.ico",
     "slug": "ip-host",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "89.35%",
+    "uptimeDay": "89.34%",
     "uptimeWeek": "41.31%",
-    "uptimeMonth": "80.64%",
+    "uptimeMonth": "80.69%",
     "uptimeYear": "98.39%",
     "time": 1825,
     "timeDay": 2124,
     "timeWeek": 1959,
-    "timeMonth": 1831,
+    "timeMonth": 1834,
     "timeYear": 1825,
     "dailyMinutesDown": {
       "2025-04-09": 154,
@@ -37,7 +37,7 @@
       "2025-03-22": 194,
       "2025-03-21": 223,
       "2025-03-20": 143,
-      "2025-03-19": 85
+      "2025-03-19": 63
     }
   },
   {
@@ -85,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-vm",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
