@@ -6,17 +6,16 @@
     "slug": "ip-host",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.01%",
     "time": 1829,
-    "timeDay": 2501,
-    "timeWeek": 2152,
-    "timeMonth": 2001,
+    "timeDay": 1852,
+    "timeWeek": 2057,
+    "timeMonth": 1998,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2025-06-28": 9,
       "2025-06-11": 1078,
       "2025-06-10": 1239,
       "2025-06-09": 16,
@@ -51,7 +50,7 @@
       "2025-04-14": 152,
       "2025-04-13": 35,
       "2025-04-12": 119,
-      "2025-04-11": 48
+      "2025-04-11": 68
     }
   },
   {
@@ -65,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.45%",
-    "time": 1128,
-    "timeDay": 1276,
-    "timeWeek": 1247,
-    "timeMonth": 1190,
+    "time": 1127,
+    "timeDay": 815,
+    "timeWeek": 1016,
+    "timeMonth": 1184,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2025-06-14": 232,
@@ -105,8 +104,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 159,
-    "timeWeek": 122,
+    "timeDay": 92,
+    "timeWeek": 112,
     "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
