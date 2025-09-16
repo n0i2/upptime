@@ -6,17 +6,16 @@
     "slug": "ip-host",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "98.76%",
     "time": 1832,
     "timeDay": 2122,
     "timeWeek": 1927,
     "timeMonth": 1810,
     "timeYear": 1832,
     "dailyMinutesDown": {
-      "2025-09-15": 11,
       "2025-09-14": 19,
       "2025-09-05": 469,
       "2025-09-04": 878,
@@ -57,7 +56,7 @@
       "2025-04-16": 136,
       "2025-04-15": 23,
       "2025-04-14": 152,
-      "2025-04-13": 18
+      "2025-04-13": 35
     }
   },
   {
