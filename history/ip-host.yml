@@ -1,7 +1,7 @@
 url: https://www.iphost.net
-status: up
-code: 200
-responseTime: 3904
-lastUpdated: 2025-11-24T08:55:34.699Z
+status: down
+code: 500
+responseTime: 1511
+lastUpdated: 2025-11-24T10:17:15.924Z
 startTime: 2024-02-08T09:17:12.216Z
 generator: Upptime <https://github.com/upptime/upptime>
