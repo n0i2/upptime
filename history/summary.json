@@ -6,9 +6,9 @@
     "slug": "ip-host",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "98.79%",
     "time": 1839,
     "timeDay": 1937,
@@ -16,7 +16,6 @@
     "timeMonth": 1917,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2025-11-28": 9,
       "2025-11-27": 88,
       "2025-11-26": 77,
       "2025-11-25": 64,
@@ -80,7 +79,8 @@
       "2025-05-11": 70,
       "2025-05-10": 53,
       "2025-05-09": 69,
-      "2025-05-08": 90
+      "2025-05-08": 90,
+      "2025-05-07": 42
     }
   },
   {
@@ -88,9 +88,9 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.43%",
@@ -100,6 +100,7 @@
     "timeMonth": 1375,
     "timeYear": 1254,
     "dailyMinutesDown": {
+      "2025-11-28": 0,
       "2025-11-25": 16,
       "2025-11-22": 25,
       "2025-11-21": 20,
