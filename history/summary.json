@@ -62,18 +62,19 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "98.35%",
-    "uptimeYear": "99.30%",
-    "time": 1273,
+    "uptimeYear": "99.31%",
+    "time": 1274,
     "timeDay": 774,
     "timeWeek": 1290,
     "timeMonth": 1255,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2026-02-23": 0,
       "2026-02-18": 85,
       "2026-02-16": 57,
       "2026-02-15": 45,
@@ -143,8 +144,7 @@
       "2025-05-23": 293,
       "2025-04-21": 56,
       "2025-04-01": 152,
-      "2025-03-20": 15,
-      "2025-03-19": 49
+      "2025-03-20": 15
     }
   },
   {
