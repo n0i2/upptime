@@ -4,18 +4,19 @@
     "url": "https://www.iphost.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.iphost.net.ico",
     "slug": "ip-host",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "62.65%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "63.45%",
     "uptimeWeek": "57.06%",
-    "uptimeMonth": "74.27%",
-    "uptimeYear": "97.86%",
+    "uptimeMonth": "74.39%",
+    "uptimeYear": "97.87%",
     "time": 1881,
     "timeDay": 1932,
     "timeWeek": 2079,
     "timeMonth": 1827,
     "timeYear": 1881,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-04-27": 532,
       "2026-04-26": 559,
       "2026-04-25": 1049,
@@ -39,7 +40,7 @@
       "2026-04-07": 222,
       "2026-04-06": 75,
       "2026-04-05": 233,
-      "2026-04-04": 85
+      "2026-04-04": 31
     }
   },
   {
