@@ -6,16 +6,17 @@
     "slug": "ip-host",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "71.25%",
-    "uptimeWeek": "74.47%",
-    "uptimeMonth": "87.64%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "74.39%",
+    "uptimeMonth": "87.72%",
+    "uptimeYear": "98.98%",
     "time": 1852,
-    "timeDay": 1611,
-    "timeWeek": 1532,
+    "timeDay": 1595,
+    "timeWeek": 1527,
     "timeMonth": 1726,
     "timeYear": 1860,
     "dailyMinutesDown": {
+      "2026-05-19": 29,
       "2026-05-18": 417,
       "2026-05-17": 372,
       "2026-05-16": 452,
@@ -29,7 +30,7 @@
       "2026-05-08": 411,
       "2026-05-07": 482,
       "2026-05-06": 376,
-      "2026-05-05": 141
+      "2026-05-05": 79
     }
   },
   {
