@@ -6,17 +6,17 @@
     "slug": "ip-host",
     "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "31.69%",
+    "uptimeDay": "31.68%",
     "uptimeWeek": "46.96%",
-    "uptimeMonth": "75.43%",
-    "uptimeYear": "97.95%",
+    "uptimeMonth": "75.54%",
+    "uptimeYear": "97.96%",
     "time": 1825,
     "timeDay": 1699,
     "timeWeek": 1582,
     "timeMonth": 1586,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2026-05-20": 332,
+      "2026-05-20": 209,
       "2026-05-21": 415,
       "2026-05-22": 543,
       "2026-05-23": 965,
@@ -32,7 +32,7 @@
       "2026-06-02": 833,
       "2026-06-03": 1117,
       "2026-06-04": 749,
-      "2026-06-05": 563
+      "2026-06-05": 634
     }
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "94.69%",
+    "uptimeDay": "94.68%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "99.20%",
-    "time": 1296,
+    "uptimeYear": "99.21%",
+    "time": 1297,
     "timeDay": 1237,
     "timeWeek": 1238,
     "timeMonth": 1255,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-12-18": 67,
+      "2025-12-18": 28,
       "2025-12-20": 89,
       "2025-12-21": 60,
       "2025-12-22": 31,
@@ -120,7 +120,8 @@
       "2026-05-18": 155,
       "2026-05-30": 18,
       "2026-06-03": 294,
-      "2026-06-04": 76
+      "2026-06-04": 76,
+      "2026-06-05": 0
     }
   },
   {
