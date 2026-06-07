@@ -7,12 +7,12 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "19.57%",
-    "uptimeWeek": "34.60%",
-    "uptimeMonth": "72.00%",
-    "uptimeYear": "97.67%",
+    "uptimeWeek": "34.57%",
+    "uptimeMonth": "71.93%",
+    "uptimeYear": "97.66%",
     "time": 1821,
     "timeDay": 1588,
-    "timeWeek": 1558,
+    "timeWeek": 1566,
     "timeMonth": 1572,
     "timeYear": 1824,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
       "2026-06-04": 749,
       "2026-06-05": 1177,
       "2026-06-06": 1064,
-      "2026-06-07": 916
+      "2026-06-07": 944
     }
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "64.95%",
-    "uptimeWeek": "86.61%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "99.11%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "64.02%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "99.10%",
     "time": 1302,
-    "timeDay": 1498,
-    "timeWeek": 1282,
-    "timeMonth": 1285,
-    "timeYear": 1335,
+    "timeDay": 1489,
+    "timeWeek": 1270,
+    "timeMonth": 1279,
+    "timeYear": 1334,
     "dailyMinutesDown": {
       "2025-12-31": 22,
       "2026-01-01": 99,
@@ -113,7 +113,7 @@
       "2026-06-04": 76,
       "2026-06-05": 66,
       "2026-06-06": 580,
-      "2026-06-07": 333
+      "2026-06-07": 361
     }
   },
   {
