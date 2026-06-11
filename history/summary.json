@@ -6,13 +6,13 @@
     "slug": "ip-host",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "67.58%",
-    "uptimeWeek": "37.64%",
-    "uptimeMonth": "70.57%",
-    "uptimeYear": "97.55%",
+    "uptimeDay": "66.06%",
+    "uptimeWeek": "37.43%",
+    "uptimeMonth": "70.52%",
+    "uptimeYear": "97.54%",
     "time": 1819,
     "timeDay": 1284,
-    "timeWeek": 1632,
+    "timeWeek": 1625,
     "timeMonth": 1588,
     "timeYear": 1821,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
       "2026-06-08": 795,
       "2026-06-09": 870,
       "2026-06-10": 455,
-      "2026-06-11": 16
+      "2026-06-11": 38
     }
   },
   {
