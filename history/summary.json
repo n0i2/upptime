@@ -6,13 +6,13 @@
     "slug": "ip-host",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "87.64%",
-    "uptimeWeek": "51.01%",
+    "uptimeDay": "88.83%",
+    "uptimeWeek": "51.34%",
     "uptimeMonth": "70.90%",
     "uptimeYear": "97.57%",
     "time": 1813,
-    "timeDay": 1460,
-    "timeWeek": 1556,
+    "timeDay": 1555,
+    "timeWeek": 1564,
     "timeMonth": 1580,
     "timeYear": 1815,
     "dailyMinutesDown": {
@@ -40,17 +40,17 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "81.75%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "98.99%",
-    "time": 1308,
-    "timeDay": 994,
-    "timeWeek": 1372,
-    "timeMonth": 1291,
-    "timeYear": 1334,
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "81.37%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "98.98%",
+    "time": 1310,
+    "timeDay": 1279,
+    "timeWeek": 1403,
+    "timeMonth": 1306,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-01-21": 33,
       "2026-01-24": 17,
@@ -111,7 +111,7 @@
       "2026-06-10": 238,
       "2026-06-11": 66,
       "2026-06-12": 189,
-      "2026-06-13": 234
+      "2026-06-13": 272
     }
   },
   {
@@ -119,9 +119,9 @@
     "url": "$ORACLEVM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-vm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
@@ -136,7 +136,8 @@
       "2025-11-15": 16,
       "2026-03-24": 195,
       "2026-04-05": 39,
-      "2026-06-10": 81
+      "2026-06-10": 81,
+      "2026-06-13": 0
     }
   }
 ]
