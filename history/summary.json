@@ -4,16 +4,16 @@
     "url": "https://www.iphost.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.iphost.net.ico",
     "slug": "ip-host",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "83.16%",
-    "uptimeWeek": "92.91%",
-    "uptimeMonth": "73.33%",
-    "uptimeYear": "97.78%",
+    "uptimeDay": "77.66%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "73.15%",
+    "uptimeYear": "97.76%",
     "time": 1812,
-    "timeDay": 1576,
-    "timeWeek": 1633,
-    "timeMonth": 1591,
+    "timeDay": 1574,
+    "timeWeek": 1631,
+    "timeMonth": 1594,
     "timeYear": 1812,
     "dailyMinutesDown": {
       "2026-05-29": 45,
@@ -35,7 +35,7 @@
       "2026-06-19": 231,
       "2026-06-20": 155,
       "2026-06-21": 197,
-      "2026-06-22": 62
+      "2026-06-22": 142
     }
   },
   {
@@ -43,17 +43,17 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "87.15%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "98.93%",
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "86.37%",
+    "uptimeMonth": "90.27%",
+    "uptimeYear": "98.91%",
     "time": 1314,
-    "timeDay": 1905,
-    "timeWeek": 1471,
-    "timeMonth": 1367,
-    "timeYear": 1345,
+    "timeDay": 1738,
+    "timeWeek": 1462,
+    "timeMonth": 1366,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2026-03-20": 30,
       "2026-03-21": 211,
@@ -97,7 +97,7 @@
       "2026-06-19": 201,
       "2026-06-20": 172,
       "2026-06-21": 124,
-      "2026-06-22": 0
+      "2026-06-22": 79
     }
   },
   {
