@@ -6,7 +6,7 @@
     "slug": "ip-host",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "69.50%",
+    "uptimeDay": "70.60%",
     "uptimeWeek": "75.14%",
     "uptimeMonth": "77.96%",
     "uptimeYear": "98.16%",
@@ -44,9 +44,9 @@
     "slug": "n0i2-eu",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "90.02%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "89.98%",
     "uptimeYear": "98.93%",
     "time": 1313,
     "timeDay": 1715,
@@ -98,7 +98,7 @@
       "2026-06-22": 79,
       "2026-06-23": 74,
       "2026-06-24": 38,
-      "2026-06-28": 0
+      "2026-06-28": 16
     }
   },
   {
