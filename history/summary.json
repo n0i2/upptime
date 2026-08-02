@@ -8,12 +8,12 @@
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.48%",
-    "uptimeMonth": "87.79%",
+    "uptimeMonth": "87.85%",
     "uptimeYear": "98.44%",
     "time": 1789,
     "timeDay": 2654,
     "timeWeek": 1787,
-    "timeMonth": 1632,
+    "timeMonth": 1628,
     "timeYear": 1778,
     "dailyMinutesDown": {
       "2026-06-23": 318,
@@ -59,16 +59,16 @@
     "url": "https://n0i2.eu",
     "icon": "https://icons.duckduckgo.com/ip3/n0i2.eu.ico",
     "slug": "n0i2-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "98.80%",
     "time": 1325,
-    "timeDay": 1110,
-    "timeWeek": 1207,
-    "timeMonth": 1364,
+    "timeDay": 1181,
+    "timeWeek": 1211,
+    "timeMonth": 1361,
     "timeYear": 1355,
     "dailyMinutesDown": {
       "2026-05-05": 44,
@@ -116,7 +116,7 @@
       "2026-07-26": 56,
       "2026-07-28": 60,
       "2026-08-01": 148,
-      "2026-08-02": 0
+      "2026-08-02": 88
     }
   },
   {
